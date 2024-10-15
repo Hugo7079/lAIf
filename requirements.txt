@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+geopy
+requests
+transformers
+snownlp
+pydeck
