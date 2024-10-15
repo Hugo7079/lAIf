@@ -5,3 +5,4 @@ requests
 transformers
 snownlp
 pydeck
+torch
